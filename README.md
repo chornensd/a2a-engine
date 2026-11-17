@@ -112,4 +112,4 @@ python -m unittest discover -s engine -v
 
 ## License
 
-尚未指定。
+[MIT](LICENSE) © 2026 chornensd
