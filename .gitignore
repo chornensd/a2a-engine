@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+
+# Runtime state: never commit
+state.db
+state.db-*
+tasks/
+inbox/
+BOARD.md
+
+# Local test scratch
+.test-tmp/
+.venv/
